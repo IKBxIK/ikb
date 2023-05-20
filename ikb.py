@@ -1,0 +1,2 @@
+import ikb
+ikb.ikb()
