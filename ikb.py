@@ -1,2 +1,2 @@
 import ikb
-ikb.ikb()
+
