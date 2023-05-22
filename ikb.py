@@ -10,4 +10,4 @@ if bit == '64bit':
     import ikb
 if bit == '32bit':
     os.system('clear')
-     print('32 bit will be updated Soon')
+    print('32 bit will be updated Soon')
