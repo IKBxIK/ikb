@@ -7,7 +7,7 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
     os.system('git pull')
-    import ikb
+    print('wait for new update')
 if bit == '32bit':
     os.system('clear')
     print('32 bit will be updated Soon')
